@@ -13,7 +13,7 @@ const landing = ({ isAuthenticated }) => {
   return (
     <section className="landing">
         
-       <div className="dark-overlay">
+      <div className="dark-overlay">
         <div className="landing-inner">
              <video className="mp4" src={video} muted loop autoPlay></video>
           <h1 className="x-large"> <span className= "String"> <ReactTypingEffect  text={["welcome To Developer Connector"]}
@@ -28,7 +28,7 @@ const landing = ({ isAuthenticated }) => {
           <div className="buttons">
             <Link to ="/register" className="btn btn-primary">Sign Up</Link>
             <Link to ="/login" className="btn btn">Login</Link>
-          </div>
+        </div>
         </div>
       </div>
     </section>
