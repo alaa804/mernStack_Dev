@@ -1,5 +1,7 @@
 # mernStack_Dev
 a small network application built with React , Redux , Node , express , mongoDb , mongoose
+![Uploading Capture d’écran 2021-03-18 230733.png…]()
+
 
 # Details
 you can create your own portfolio with your information and display it you can see the profil of other Developers too!
