@@ -5,7 +5,7 @@ a small application built with React , Redux , Node , express , mongoDb , mongoo
 #install dependencies for server
 npm start
 
-#run the clent side with concurently
+#run the client side with concurently
 npm run dev
 
 #run the Express server only
