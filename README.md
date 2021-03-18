@@ -1,6 +1,6 @@
 # mernStack_Dev
 a small network application built with React , Redux , Node , express , mongoDb , mongoose
-![Uploading Capture d’écran 2021-03-18 230733.png…]()
+![Capture d’écran 2021-03-18 230733](https://user-images.githubusercontent.com/73104268/111705520-2205f680-8841-11eb-877f-16d5daa2b6b6.png)
 
 
 # Details
