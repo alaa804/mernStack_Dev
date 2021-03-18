@@ -3,16 +3,16 @@ a small application built with React , Redux , Node , express , mongoDb , mongoo
 
 # Quick_start
 #install dependencies for server
-npm start
+ using npm start
 
 #run the client side with concurently
-npm run dev
+ using npm run dev
 
 #run the Express server only
-npm run server
+ using npm run server
 
 #run the react client only
-npm run client
+using npm run client
 
 #server runs on http://localhost:5000 and client on http://localhost:3000
 
